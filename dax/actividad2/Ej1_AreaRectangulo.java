@@ -17,3 +17,4 @@ public class Ej1_AreaRectangulo {
         System.out.println("El área del rectángulo es: " + area);
     }
 }
+ 
