@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dax/dax.iml" filepath="$PROJECT_DIR$/dax/dax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gerardo/gerardo.iml" filepath="$PROJECT_DIR$/gerardo/gerardo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/proyecto_java.iml" filepath="$PROJECT_DIR$/.idea/proyecto_java.iml" />
+    </modules>
+  </component>
+</project>
